@@ -25,6 +25,12 @@ now it is installed but doesn't works, it needs dotnet48
 
 now you can launch PurplePen and it should works
 
-## TODO
+## install gdiplus
 
-- some colors are strange
+Without this, when exporting some lines and objects in the pdf are misplaced and/or corrupted
+
+To install this, the procedure is the same as installing **dotnet48**
+
+## Have fun setting courses
+
+If somethings is not working, open a issue :\)
